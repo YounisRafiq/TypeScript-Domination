@@ -1,0 +1,6 @@
+TODO List :-
+
+1-- Practicing all the Data Types in TypeScript
+2-- Extract Conclusion
+
+Conclusion : Understand All Data Types and flow of data types in TS and also understand the flow of tumple and enum which is the most important topic in TS
